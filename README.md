@@ -1,1 +1,1 @@
-# SymmetricMonoidalCategories
+# Symmetric Monoidal Categories
